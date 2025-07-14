@@ -12,19 +12,14 @@
 
 ## 📁 Структура проекта
 
-customer-churn-prediction/
-│
-├── files/
-│ └── telco_churn.csv
-├── notebooks/
-│ ├── customer_churn_analysis.ipynb
-│ └── catboost_info/ (указано в .gitignore)
-├── requirements.txt
-├── README.md
-
-yaml
-Копировать
-Редактировать
+- customer-churn-prediction/
+  - files/
+    - telco_churn.csv
+  - notebooks/
+    - customer_churn_analysis.ipynb
+    - catboost_info/ (в .gitignore)
+  - requirements.txt
+  - README.md
 
 ---
 
