@@ -1,6 +1,3 @@
-markdown
-Копировать
-Редактировать
 # Прогнозирование оттока клиентов (Customer Churn Prediction)
 
 Реализация задачи предсказания оттока клиентов телеком-компании с помощью машинного обучения на датасете [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
