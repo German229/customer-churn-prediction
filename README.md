@@ -82,4 +82,4 @@ pip install -r requirements.txt
 
 ## 🙋‍♂️ Автор
 
-- German229
+- [German229](https://github.com/German229)
